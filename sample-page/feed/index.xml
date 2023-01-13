@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="http://localhost/wordpress/sample-page/feed/?simply_static_page=18" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://localhost/wordpress/sample-page/feed/?simply_static_page=47" rel="self" type="application/rss+xml" />
+	<link>https://olijar.github.io/againtest</link>
 	<description></description>
 	<lastBuildDate>Thu, 12 Jan 2023 20:23:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
